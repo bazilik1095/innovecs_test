@@ -2,7 +2,7 @@
 
 - Live Demo 
 
-http://wpadvisor.artstudioworks.net/events/musical-festival/
+http://wpadvisor.artstudioworks.net/
 
 - admin - vlad 
 - pass - G#grsXDRd6z0frLWPitiNj9t
