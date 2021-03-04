@@ -8,7 +8,7 @@ http://wpadvisor.artstudioworks.net/events/musical-festival/
 - pass - G#grsXDRd6z0frLWPitiNj9t
 
 
-#Рекомендации по улучшению сайта pagespeed insight innovecs.com 
+2.Рекомендации по улучшению сайта pagespeed insight innovecs.com 
 
 - Оптимизация всех картинок через сервис https://kraken.io/ https://tinypng.com/
 - Использование плагинов для кеша.
